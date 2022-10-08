@@ -5,7 +5,7 @@
 
 # 🔗🔗🔗  [Richard Gonzales][website],&nbsp;Aspiring Full Stack Developer
 
-![Username](https://img.shields.io/badge/Username-rchadgonzales-brightgreen) &nbsp; ![Profile views](https://gpvc.arturio.dev/rchadgonzales)
+![Username](https://img.shields.io/badge/Username-rchadgonzales-darkgreen) &nbsp; ![Profile views](https://gpvc.arturio.dev/rchadgonzales)
 
 ## YouTube [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCHPIcSFr4KbyNmsAGK20-lQ?style=flat&logo=youtube&color=FF0000)](https://www.youtube.com/channel/UCHPIcSFr4KbyNmsAGK20-lQ)
 
@@ -19,11 +19,15 @@
 
 ## Github Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rchadgonzales&theme=hacker)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rchadgonzales&theme=hacker)](https://git.io/streak-stats) 
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rchadgonzales&theme=radical)](https://git.io/streak-stats) -->
 
 </br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rchadgonzales&show_icons=true&title_color=20C117&text_color=20C117&icon_color=20C117&border_color=20C117&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rchadgonzales&show_icons=true&title_color=20C117&text_color=20C117&icon_color=20C117&border_color=20C117&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats) 
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rchadgonzales&show_icons=true&theme=radical) -->
 
 <!-- ![](https://komarev.com/ghpvc/?username=your-github-username) -->
 
