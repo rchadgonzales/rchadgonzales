@@ -5,9 +5,9 @@
 
 # 🔗🔗🔗  [Richard Gonzales][website],&nbsp;Aspiring Full Stack Developer
 
-![Username](https://img.shields.io/badge/Username-rchadgonzales-darkgreen) &nbsp; ![Profile views](https://gpvc.arturio.dev/rchadgonzales)
+[![Username](https://img.shields.io/badge/Username-rchadgonzales-darkgreen)][linkedin] &nbsp; [![Profile views](https://gpvc.arturio.dev/rchadgonzales)][github]
 
-## YouTube [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCHPIcSFr4KbyNmsAGK20-lQ?style=flat&logo=youtube&color=FF0000)](https://www.youtube.com/channel/UCHPIcSFr4KbyNmsAGK20-lQ)
+## YouTube [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCHPIcSFr4KbyNmsAGK20-lQ?style=flat&logo=youtube&color=FF0000)][youtube]
 
 
 - 🔥 Everyday Goal: Improve my skills.
@@ -48,7 +48,8 @@
 
 
 [website]: https://rchadgonzales.github.io/r-portfolio
-[facebook]: https://www.facebook.com/rchadgonzales/
+[github]: https://github.com/rchadgonzales
+[facebook]: https://www.facebook.com/rchadgonzales
 [twitter]: https://twitter.com/rchadgonzales
 [youtube]: https://www.youtube.com/channel/UCHPIcSFr4KbyNmsAGK20-lQ
 [instagram]: https://instagram.com/rchadgonzales
