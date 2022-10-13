@@ -33,9 +33,10 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rchadgonzales)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) -->
 
 <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark) -->
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
 
 <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=socrates) -->
 
