@@ -42,13 +42,13 @@
 <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in) -->
 
 <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=default&animation=default&layout=default&font=default) -->
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=default&animation=default&layout=default&font=default)
 
 <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=default&animation=default&layout=zues&font=default) -->
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=default&animation=default&layout=zues&font=default)
 
 
 
-[website]: https://rchadgonzales.github.io/r-portfolio
+[website]: https://richardgonzales.netlify.app/
 [github]: https://github.com/rchadgonzales
 [facebook]: https://www.facebook.com/rchadgonzales
 [twitter]: https://twitter.com/rchadgonzales
