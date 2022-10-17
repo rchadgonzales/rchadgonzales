@@ -40,7 +40,6 @@
 <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=socrates) -->
 
 <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in) -->
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in)
 
 <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=default&animation=default&layout=default&font=default) -->
 
