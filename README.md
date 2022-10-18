@@ -47,7 +47,7 @@
 
 
 
-[website]: https://richardgonzales.netlify.app/
+[website]: https://richardgonzales.netlify.app
 [github]: https://github.com/rchadgonzales
 [facebook]: https://www.facebook.com/rchadgonzales
 [twitter]: https://twitter.com/rchadgonzales
