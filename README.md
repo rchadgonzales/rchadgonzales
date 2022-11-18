@@ -44,7 +44,6 @@
 <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=default&animation=default&layout=default&font=default) -->
 
 <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=default&animation=default&layout=zues&font=default) -->
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=default&animation=default&layout=zues&font=default)
 
 
 
@@ -55,7 +54,6 @@
 [youtube]: https://www.youtube.com/channel/UCHPIcSFr4KbyNmsAGK20-lQ
 [instagram]: https://instagram.com/rchadgonzales
 [linkedin]: https://linkedin.com/in/rchadgonzales
-
 
 
 
