@@ -13,7 +13,8 @@
 - 🔥 Everyday Goal: Improve my skills.
 <!-- - ⚡ Fun Fact: I love gaming.
 - 🪐 Ruling Planet: Saturn.
-- 🔶 Favorite Food: Pizza, Hamburger, Fries. -->
+- 🔶 Favorite Food: Pizza, Hamburger, Fries.
+- Stress Reliever: Ice cream. -->
 
 
 
@@ -38,7 +39,6 @@
 <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark) -->
 
 <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=socrates) -->
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=socrates)
 
 <!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=grow_out_in) -->
 
