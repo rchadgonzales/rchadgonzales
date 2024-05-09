@@ -5,7 +5,7 @@
 
 # 🔗🔗🔗  [Richard Gonzales][website],&nbsp;Aspiring Full Stack Developer
 
-[![Username](https://img.shields.io/badge/Username-rchadgonzales-darkgreen)][github] &nbsp; [![Portfolio](https://img.shields.io/badge/Portfolio-rchadgonzales-darkgreen)][website] <!-- [![Profile views](https://gpvc.arturio.dev/rchadgonzales)][github] -->
+[![Username](https://img.shields.io/badge/Username-rchadgonzales-darkgreen)][github] &nbsp; [![Portfolio](https://img.shields.io/badge/Portfolio-richardgonzales.netlify.app-darkgreen)][website] <!-- [![Profile views](https://gpvc.arturio.dev/rchadgonzales)][github] -->
 
 ## YouTube [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCHPIcSFr4KbyNmsAGK20-lQ?style=flat&logo=youtube&color=FF0000)][youtube]
 
