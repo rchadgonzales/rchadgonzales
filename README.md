@@ -3,7 +3,7 @@
 
 ### ~~~ my name is
 
-# 🔗🔗🔗  [Richard Gonzales][website],&nbsp;Aspiring Full Stack Developer
+# 🔗🔗🔗  [Richard Gonzales][website],&nbsp;I'm a Full Stack Developer
 
 [![Username](https://img.shields.io/badge/Username-rchadgonzales-darkgreen)][github] &nbsp; [![Portfolio](https://img.shields.io/badge/Portfolio-richardgonzales.netlify.app-darkgreen)][website] &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-Richard_Gonzales-darkgreen)][linkedin] <!-- [![Profile views](https://gpvc.arturio.dev/rchadgonzales)][github] -->
 
